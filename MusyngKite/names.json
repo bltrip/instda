@@ -1,4 +1,9 @@
 [
+
+  "LM-2",
+  "CR-78",
+  "TR_909_Detroit",
+  "TR_909_SP",
   "accordion",
   "acoustic_bass",
   "acoustic_grand_piano",
@@ -83,6 +88,7 @@
   "pad_7_halo",
   "pad_8_sweep",
   "pan_flute",
+  "percussion",
   "percussive_organ",
   "piccolo",
   "pizzicato_strings",
